@@ -5,7 +5,6 @@ import {
   Select,
   Toolbar,
   Typography,
-  Avatar,
 } from "@material-ui/core";
 import {
   createTheme,
